@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 🌱 I’m currently learning about OpenCV, ML, IoT and Web Development.
+
+### 🔭 I’m currently working on a simple image processing app in Java.
+
+### 🤔 I’m looking for help with understanding distributed systems
