@@ -13,9 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 ### 🌱 I’m currently learning about OpenCV, ML, Data Analytics and Web Development.
 
 ### 🔭 I’m currently working on a simple image processing app in Java.
 
 ### 🤔 I’m looking for help with understanding more techstacks and architecture pipelines
+
+-->
